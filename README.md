@@ -1,2 +1,2 @@
 # Minesweeper
-Minesweeper game created Java.
+Minesweeper game created with Java.
